@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="png">
+    <file>C.png</file>
+    <file>DC_VS.png</file>
+    <file>DC_IS.png</file>
+    <file>AC_VS.png</file>
+    <file>AC_IS.png</file>
+    <file>C.png</file>
+    <file>R.png</file>
+  </qresource>
+</RCC>
